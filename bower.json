@@ -1,0 +1,21 @@
+{
+  "name": "jquery.inview",
+  "main": "jquery.inview.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cmincarelli/jquery.inview",
+  "authors": [
+    "Chris Mink <chrism-air@local>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
